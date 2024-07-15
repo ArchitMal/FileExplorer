@@ -10,3 +10,6 @@ class FileExplorer:
 
     def files_list(self):
         pass
+
+    def files_path(self):
+        pass
